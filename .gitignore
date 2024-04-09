@@ -1,0 +1,5 @@
+backup/
+lambda_handler.zip
+Others.py
+terraform.tfstate*
+.terraform*
